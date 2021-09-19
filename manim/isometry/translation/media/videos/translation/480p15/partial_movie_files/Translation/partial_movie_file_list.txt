@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/isometry/translation/media/videos/translation/480p15/partial_movie_files/Translation/3163782288_3920515107_2674627549.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/isometry/translation/media/videos/translation/480p15/partial_movie_files/Translation/2201830969_398514950_1373377179.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/isometry/translation/media/videos/translation/480p15/partial_movie_files/Translation/2201830969_3346642501_1273310722.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/isometry/translation/media/videos/translation/480p15/partial_movie_files/Translation/2201830969_398514950_2390435066.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/isometry/translation/media/videos/translation/480p15/partial_movie_files/Translation/2201830969_1979104524_424495257.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/isometry/translation/media/videos/translation/480p15/partial_movie_files/Translation/2201830969_921894806_3995048144.mp4'

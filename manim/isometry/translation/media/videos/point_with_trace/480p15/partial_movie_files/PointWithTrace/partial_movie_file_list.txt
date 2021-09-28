@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/isometry/translation/media/videos/point_with_trace/480p15/partial_movie_files/PointWithTrace/3163782288_3456731953_3289431126.mp4'

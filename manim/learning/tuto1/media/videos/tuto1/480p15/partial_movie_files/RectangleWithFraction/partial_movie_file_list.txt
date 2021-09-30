@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/RectangleWithFraction/3163782288_958118415_4022358548.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/RectangleWithFraction/2201830969_3454610251_2316377031.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/RectangleWithFraction/2201830969_1722118170_1384248527.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/RectangleWithFraction/2201830969_398514950_812091383.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/RectangleWithFraction/2201830969_3122844971_3535323238.mp4'

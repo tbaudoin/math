@@ -1,4 +1,3 @@
-import math
 from manim import *
 
 

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/Circumference/3163782288_2574815628_3357262947.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/Circumference/2201830969_398514950_1764109984.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/Circumference/2201830969_1375184357_2199857920.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/Circumference/2201830969_398514950_3384781592.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto1/media/videos/tuto1/480p15/partial_movie_files/Circumference/2201830969_1205719744_3693226383.mp4'

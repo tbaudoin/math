@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/tbaudoin/Documents/git_repository/math/manim/tests/media/videos/updater_learning/480p15/partial_movie_files/AddUpdater2/3163782288_4148155650_2364651950.mp4'
-file 'file:/home/tbaudoin/Documents/git_repository/math/manim/tests/media/videos/updater_learning/480p15/partial_movie_files/AddUpdater2/2201830969_398514950_1457107205.mp4'

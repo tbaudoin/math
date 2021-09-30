@@ -1,6 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/tbaudoin/Documents/git_repository/math/manim/tests/text/media/videos/text/720p30/partial_movie_files/SomeText/1342159004_25038228_1936148879.mp4'
-file 'file:/home/tbaudoin/Documents/git_repository/math/manim/tests/text/media/videos/text/720p30/partial_movie_files/SomeText/1353618911_398514950_3411021854.mp4'
-file 'file:/home/tbaudoin/Documents/git_repository/math/manim/tests/text/media/videos/text/720p30/partial_movie_files/SomeText/1353618911_318038445_1453950371.mp4'
-file 'file:/home/tbaudoin/Documents/git_repository/math/manim/tests/text/media/videos/text/720p30/partial_movie_files/SomeText/1353618911_398514950_606137053.mp4'
-file 'file:/home/tbaudoin/Documents/git_repository/math/manim/tests/text/media/videos/text/720p30/partial_movie_files/SomeText/1353618911_4122000550_3109577324.mp4'

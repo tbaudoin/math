@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto2/media/videos/tuto2/480p15/partial_movie_files/WorkWithGraph/3163782288_3871514099_4207651870.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto2/media/videos/tuto2/480p15/partial_movie_files/WorkWithGraph/2201830969_1132720193_3388709639.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto2/media/videos/tuto2/480p15/partial_movie_files/WorkWithGraph/2201830969_2735216016_3094496239.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto2/media/videos/tuto2/480p15/partial_movie_files/WorkWithGraph/2201830969_4219717479_650779255.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto2/media/videos/tuto2/480p15/partial_movie_files/WorkWithGraph/2201830969_1142256100_950789716.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto2/media/videos/tuto2/480p15/partial_movie_files/WorkWithGraph/2201830969_3781768597_2574449908.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto2/media/videos/tuto2/480p15/partial_movie_files/WorkWithGraph/2201830969_4219717479_1471934159.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto2/media/videos/tuto2/480p15/partial_movie_files/WorkWithGraph/2201830969_364691928_3840188258.mp4'
+file 'file:/home/tbaudoin/Documents/git_repository/math/manim/learning/tuto2/media/videos/tuto2/480p15/partial_movie_files/WorkWithGraph/2201830969_753338471_3455375323.mp4'

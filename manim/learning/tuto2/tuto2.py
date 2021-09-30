@@ -1,4 +1,7 @@
 from manim import *
+from manim.utils.opengl import y_rotation_matrix
+from matplotlib import mathtext
+from matplotlib.pyplot import hlines, xlabel
 
 
 class WorkWithGraph(Scene):
@@ -40,3 +43,27 @@ class WorkWithGraph(Scene):
                 "graph": graph
             }
         )
+
+
+class CoordinatesRotation(Scene):
+
+    def construct(self):
+        ax = NumberPlane(
+            x_range=[-5, 6, 1],
+            y_range=[-5, 6, 1],
+            y_length=6,
+            x_length=6,
+            axis_config={
+                "include_tip": True,
+            }
+        )
+        x_label = ax.get_x_axis_label(
+            MathTex("x"),
+            edge=RIGHT
+        )
+        ax.add_coordinates()
+        point = ax.c2p(-2,-2)
+        dot = Dot(point)
+        vline = ax.get_vertical_line(point)
+        hline = ax.get_horizontal_line(point)
+        self.add(ax,x_label, dot, vline, hline)

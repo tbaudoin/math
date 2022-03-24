@@ -33,25 +33,28 @@ def convert_to_latex(s):
 def wrapper(content, envi):
     return content.join([f"\n\\begin{{{envi}}}\n", f"\n\\end{{{envi}}}\n"])
     
-enonces = list()
-solutions = list()
-for i in range(20):
-    e, s = exercice()
-    if not s in solutions: # empêche les doublons
-        enonces.append(e)
-        solutions.append(s)
-# formater les énoncés en latex
-enonces_latex = [convert_to_latex(el) for el in enonces]
-solutions_latex = [convert_to_latex(el) for el in solutions]
-# créer l'environnement pour les enonces
-# add task devant chaque élément
-enonces_latex = "\n".join([f"\t\\task ${e}$" for e in enonces_latex])
-solutions_latex = "\n".join([f"\t\\task ${e}$" for e in solutions_latex])
-enonces_latex = wrapper(enonces_latex, "task")
-solutions_latex = wrapper(solutions_latex, "task")
-with open("data.txt", "w") as f:
-    f.write("% ENONCES\n")
-    f.write(enonces_latex)
-    f.write(solutions_latex)
-    f.write("% SOLUTION\n")
+# enonces = list()
+# solutions = list()
+# for i in range(20):
+#     e, s = exercice()
+#     if not s in solutions: # empêche les doublons
+#         enonces.append(e)
+#         solutions.append(s)
+# # formater les énoncés en latex
+# enonces_latex = [convert_to_latex(el) for el in enonces]
+# solutions_latex = [convert_to_latex(el) for el in solutions]
+# # créer l'environnement pour les enonces
+# # add task devant chaque élément
+# enonces_latex = "\n".join([f"\t\\task ${e}$" for e in enonces_latex])
+# solutions_latex = "\n".join([f"\t\\task ${e}$" for e in solutions_latex])
+# enonces_latex = wrapper(enonces_latex, "task")
+# solutions_latex = wrapper(solutions_latex, "task")
+# with open("data.txt", "w") as f:
+#     f.write("% ENONCES\n")
+#     f.write(enonces_latex)
+#     f.write(solutions_latex)
+#     f.write("% SOLUTION\n")
 
+for i in range(100):
+    e, s = exercice()
+    print(f"{e} -> {s}")

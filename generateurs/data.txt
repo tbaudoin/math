@@ -1,0 +1,48 @@
+% ENONCES
+
+\begin{task}
+	\task $\dfrac{-8}{-4}\cdot\dfrac{5}{7}$
+	\task $\dfrac{10}{-12}\cdot\dfrac{-2}{14}$
+	\task $\dfrac{6}{-2}\cdot\dfrac{12}{15}$
+	\task $\dfrac{15}{-2}\cdot\dfrac{8}{3}$
+	\task $\dfrac{-2}{11}\cdot\dfrac{9}{-2}$
+	\task $\dfrac{6}{-13}\cdot\dfrac{14}{-15}$
+	\task $\dfrac{2}{-15}\cdot\dfrac{9}{-9}$
+	\task $\dfrac{11}{12}\cdot\dfrac{-2}{-12}$
+	\task $\dfrac{-15}{-1}\cdot\dfrac{10}{-2}$
+	\task $\dfrac{5}{-12}\cdot\dfrac{15}{12}$
+	\task $\dfrac{14}{12}\cdot\dfrac{7}{11}$
+	\task $\dfrac{-1}{-10}\cdot\dfrac{-15}{-4}$
+	\task $\dfrac{9}{-8}\cdot\dfrac{-10}{-15}$
+	\task $\dfrac{-4}{5}\cdot\dfrac{15}{-1}$
+	\task $\dfrac{15}{7}\cdot\dfrac{7}{6}$
+	\task $\dfrac{-6}{10}\cdot\dfrac{-6}{15}$
+	\task $\dfrac{-5}{13}\cdot\dfrac{6}{8}$
+	\task $\dfrac{-13}{2}\cdot\dfrac{-15}{3}$
+	\task $\dfrac{13}{-11}\cdot\dfrac{6}{15}$
+	\task $\dfrac{9}{15}\cdot\dfrac{14}{8}$
+\end{task}
+
+\begin{task}
+	\task $\dfrac{10}{7}$
+	\task $\dfrac{5}{42}$
+	\task $\dfrac{-12}{5}$
+	\task $$
+	\task $\dfrac{9}{11}$
+	\task $\dfrac{28}{65}$
+	\task $\dfrac{2}{15}$
+	\task $\dfrac{11}{72}$
+	\task $$
+	\task $\dfrac{-25}{48}$
+	\task $\dfrac{49}{66}$
+	\task $\dfrac{3}{8}$
+	\task $\dfrac{-3}{4}$
+	\task $$
+	\task $\dfrac{5}{2}$
+	\task $\dfrac{6}{25}$
+	\task $\dfrac{-15}{52}$
+	\task $\dfrac{65}{2}$
+	\task $\dfrac{-26}{55}$
+	\task $\dfrac{21}{20}$
+\end{task}
+% SOLUTION
